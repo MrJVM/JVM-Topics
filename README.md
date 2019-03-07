@@ -7,6 +7,9 @@ A list of topics related to the Java Vitual Machine , Scala and Java mostly :D
 ## Type Erasure
 * https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20
 
+## Java Pass by Reference
+* http://wiki.c2.com/?JavaPassesByValue
+
 ## Scala Exercises
 * https://github.com/scala-exercises/exercises-scalatutorial
 
